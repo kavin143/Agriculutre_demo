@@ -30,15 +30,15 @@ const Footer = () => {
           <div style={styles.contactInfo}>
             <div style={styles.contactItem}>
               <Mail size={18} />
-              <span>info@agriconnect.com</span>
+              <span>techonitsolution@gmail.com</span>
             </div>
             <div style={styles.contactItem}>
               <Phone size={18} />
-              <span>+91 98765 43210</span>
+              <span>+91 88077 12204</span>
             </div>
             <div style={styles.contactItem}>
               <MapPin size={18} />
-              <span>Tiruchengode, Tamil Nadu</span>
+              <span>Coimbatore, Tamil Nadu</span>
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const Footer = () => {
 
       <div style={styles.footerBottom}>
         <div className="container">
-          <p>© 2026 AgriConnect. All rights reserved.</p>
+          <p>© 2026 Techon. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -119,3 +119,4 @@ const styles = {
 };
 
 export default Footer;
+
